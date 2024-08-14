@@ -1,10 +1,17 @@
-## Hi there 👋
+[![GitHub stats](https://vercel-github-readme-stats-git-main-philosyangs-projects.vercel.app/api?username=Philosyang&show_icons=true&theme=transparent&hide_title=true&layout=compact)](https://github.com/Philosyang/Philosyang/blob/main/README.md?plain=1)
+
+<!--
+github stats widget credit: https://github.com/anuraghazra/github-readme-stats 
+customization guide: https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#customization
+-->
+
 
 <!--
 **Philosyang/Philosyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
