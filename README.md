@@ -1,9 +1,9 @@
 <a href="https://github.com/Philosyang/Philosyang/blob/main/README.md?plain=1">
   <img height=200 align="center" src="https://vercel-github-readme-stats-git-main-philosyangs-projects.vercel.app/api?username=Philosyang&show_icons=true&theme=transparent" />
 </a>
-<a href="https://github.com/Philosyang/Philosyang/blob/main/README.md?plain=1">
+<!-- <a href="https://github.com/Philosyang/Philosyang/blob/main/README.md?plain=1">
   <img height=200 align="center" src="https://vercel-github-readme-stats-git-main-philosyangs-projects.vercel.app/api/top-langs/?username=Philosyang&theme=transparent&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8" />
-</a>
+</a> -->
 
 <!--
 github stats widget credit: https://github.com/anuraghazra/github-readme-stats 
